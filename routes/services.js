@@ -13,21 +13,6 @@ const services = [
     {
         "name" : "Frontend Devepolment"
     },
-    {
-        "name" : "Backend Devepolment"
-    },
-    {
-        "name" : "Full-Stack Devepolment"
-    },
-    {
-        "name" : "Debugging Services"
-    },
-    {
-        "name" : "Laptop Services"
-    },
-    {
-        "name" : "Testing Services"
-    }
 ]
 
 
